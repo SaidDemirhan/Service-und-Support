@@ -1,0 +1,289 @@
+V01_Service Operations_Ticketsystem_Handout 
+Service und Support (SUS)
+Service Operations
+Wichtige Begriffe
+Ticketsysteme und Schnittstellen
+Monitoring
+SLA/ SL 
+
+Servis ve Destek (SUS)
+Servis işlemleri
+önemli terimler
+Bilet sistemleri ve arayüzler
+izleme
+SLA/SL
+
+Worum geht es? Neden ki?
+WIE wird was getan NASIL bir şey yapılır
+Service
+-Reaktionszeiten
+-Servicezeiten
+-Dauer bis Störungsbehebung
+
+hizmet
+-Tepki süreleri
+-Servis süreleri
+-Sorun gidermeye kadar geçen süre
+
+#Vertragliche Regelungen der Dienstleistung Hizmetin sözleşme hükümleri
+
+Support
+*Kaufmännisch
+-Rechnungen
+-Auftragsfragen
+-Reklamationen
+*technisch
+-Hard-/ Software Support
+
+destek
+*Reklam
+	-Faturalar
+	-Sipariş sorunları
+	-Şikayetler
+*teknik olarak
+  -Hard-/ yazılım desteği
+#Unterstützung der Technik teknoloji desteği
+
+Wichtige Begriffe
+
+Eventmgmt
+Ereignismeldung/ Statusänderung
+Generiert aus z.B. einem Überwachungstool 
+Personal muss aktiv werden
+Meist werden Incidentsgeneriert
+
+olay yönetimi
+Olay bildirimi / durum değişikliği
+Örneğin bir izleme aracından oluşturuldu
+Personel aktif olmalı
+Olaylar çoğunlukla oluşturulur
+
+Incidentmgmt
+Aufnehmen/ Bearbeiten von Störungen 
+Festlegen von Prozessen und Kategorien
+
+olay yönetimi
+Arızaların kaydedilmesi/işlenmesi
+Süreçler ve kategoriler oluşturun
+
+
+
+
+Changemgmt
+Veränderungen Dokumentieren
+Transparent gestalten
+Kostenschätzungen optimieren
+Standard, Normale, Notfall Changes
+
+Degisiklik yönetimi
+Belge değişiklikleri
+şeffaf yap
+Maliyet tahminlerini optimize edin
+Standart, Normal, Acil Değişiklikler
+
+Requestmgmt
+Anfragen, die keine Störung sind
+Festlegen von Prozessen zu deren Abarbeitung
+
+istek yönetimi
+Rahatsız edici olmayan istekler
+Yürütülmesi için süreçlerin tanımı
+
+Problemmgmt
+„Ursachenforschung“ von Incidentsund deren künftige Vermeidung
+
+sorun yönetimi
+Olayların "nedensel araştırması" ve gelecekte kaçınılması
+ 
+Ticketsysteme
+
+•Die Hardware des Kunden (und auch eigene) wird im Ticketsystem aufgenommen und verwaltet.
+•Die IT kann auf Daten und Konfigurationsparameter zugreifen 
+
+bilet sistemleri
+
+•Müşterinin donanımı (ve sizinki) bilet sisteminde kaydedilir ve yönetilir.
+•BT, verilere ve yapılandırma parametrelerine erişebilir
+
+ 
+
+•Zum Bearbeiten der Tickets können die Mitarbeiter der IT zudem auf eine Wissensdatenbank zugreifen
+• BT personeli, biletleri işlemek için bir bilgi veritabanına da erişebilir
+
+ 
+Schnittstellen
+
+•Schnittstelle zum Kunden
+•Schnittstelle zum Monitoring
+•Schnittstelle zum Benutzer
+•Schnittstelle zur Knowledgebase
+•Schnittstelle IT 
+
+arayüzler
+
+• Müşteriye arayüz
+• İzleme için arayüz
+• Kullanıcı için arayüz
+• Bilgi tabanına arayüz
+• BT arayüzü
+
+ 
+Hosten oder selbst verwalten?
+
+•Eine zentrale Frage bei der Beschaffung eines Ticketsystems ist die, ob man die Software selber installieren oder als SAS (Software asa Service) nutzen möchte.
+•Welche Vorteile oder Nachteile würden diese Lösungen für die Stepwise Digital und ihre Kunden mit sich bringen? Welche Voraussetzung müssten erfüllt sein?
+
+Kendinizi barındırın veya yönetin?
+
+•Bilet sistemi satın alırken temel soru, yazılımı kendiniz mi kurmak istediğiniz yoksa SAS (Software asa Service) olarak mı kullanmak istediğinizdir.
+•Bu çözümler Stepwise Digital ve müşterileri için ne gibi avantajlar veya dezavantajlar getirir? Hangi gereksinimlerin karşılanması gerekir?
+
+ 
+Service Level Agreement
+Dienstleistungs-Güte-Vereinbarung 
+
+Hizmet düzeyi anlaşması
+Hizmet Kalite Sözleşmesi
+
+SLA
+Hintergrund und Nutzen
+•Genaue Definition der zu Erbringenden Leistung im Bezug auf
+•Umfang
+•Reaktionszeit
+•Bearbeitungszeit
+•Erreichbarkeit des Supports
+•Ergebnisse sollen SMART sein (spezifisch, messbar, akzeptiert, realistisch, terminiert)
+
+SLA
+arka plan ve faydaları
+• Aşağıdakilerle ilgili olarak sağlanacak hizmetin tam tanımı
+•Dürbün
+•Tepki süresi
+•İşlem süresi
+• Desteğin mevcudiyeti
+•Sonuçlar AKILLI (belirli, ölçülebilir, kabul edilmiş, gerçekçi, zamanında) olmalıdır.
+
+Inhalte
+•Zweck
+•Vertragspartner
+•Reviews
+•Änderungshistorie
+•Leistungsbeschreibung
+•Verantwortlicher Leistungserbringer
+•Verantwortlicher Leistungsempfänger
+•Verfügbarkeit
+•Standards
+•Job-Planung/ Wartung
+•Service Level Kennzahlen
+•Messzeitraum
+•Externe Verträge
+•Eskalationsmanagement
+•Preise
+•Rechtsfolgen
+•Vertragslaufzeit
+•Unterschriften
+
+içerik
+•Amaç
+• Sözleşme ortağı
+•Yorumlar
+•Tarihi değiştir
+•Servis açıklaması
+• Sorumlu hizmet sağlayıcı
+•Sorumlu yararlanıcı
+• Müsaitlik
+•Standartlar
+• İş Planlama/Bakım
+• Hizmet düzeyi metrikleri
+•Ölçüm süresi
+•Dış Sözleşmeler
+• Sorun yönetimi
+•Fiyat:% s
+•Yasal sonuçlar
+•Sözleşme süresi
+• İmzalar
+
+Service Level
+Dringlichkeit: Was fällt weg?
+•Dinglichkeit:
+•Kritisch: ein Service ist betroffen und nicht mehr funktional, es gibt keinen Workaround
+•Hoch: Beschränkt die Möglichkeit von Benutzern, ihre Funktion wahrzunehmen
+•Mittel: Benutzer sind in Teilen ihrer Aufgaben eingeschränkt
+•Gering: Benutzer können Aufgaben wahrnehmen/ workaround ist vorhanden
+
+Servis seviyesi
+Aciliyet: Eksik olan nedir?
+• Gerçeklik:
+•Kritik: bir hizmet etkileniyor ve artık çalışmıyor, geçici bir çözüm yok
+• Yüksek: Kullanıcıların görevlerini yerine getirme yeteneklerini sınırlar
+•Orta: Kullanıcılar görevlerinin bazı bölümlerinde kısıtlanmıştır
+•Düşük: Kullanıcılar görevleri gerçekleştirebilir / geçici çözüm mevcuttur
+
+Wie viele sind in welchem Ausmaß betroffen?
+•Auswirkung
+•Dringend: alle MA sind betroffen/ ein als kritisch definierter Service ist betroffen
+•Hoch: ein Standort ist betroffen/ ein vollständiger, nicht kritischer dienst ist betroffen
+•Mittel: Mehrere Benutzer oder Gruppen sind betroffen, ein Teil eines Dienstes
+•Gering: eine oder wenige Personen sind betroffen
+
+Kaç tanesi ve ne ölçüde etkileniyor?
+•Darbe
+•Acil: tüm çalışanlar etkilenir / kritik olarak tanımlanan bir hizmet etkilenir
+•Yüksek: bir site etkilenir/ tüm kritik olmayan hizmet etkilenir
+• Orta: Bir hizmetin parçası olan birden çok kullanıcı veya grup etkilenir
+• Düşük: bir veya birkaç kişi etkilenir
+
+ 
+Das Ticketsystem der Stepwise Digital
+Die StepwiseDigital soll künftig mit einem Ticketsystem arbeiten –so viel steht bereits fest. Das Budget für dieses Projekt wird anteilig von allen Abteilungen kalkuliert. Herr Wormanist hiervon nur mäßig begeistert –er hatte andere Ideen. Er fragt sich, ob man für den Nutzen einen Mehrwert generieren kann –im Bezug auf die eigene IT.
+Nutzen Sie die Service Level Tabelle und Ordnen Sie Auswirkung und Dringlichkeit folgender Incidentsein –und überlegen sie, wie wahrscheinlich ein solcher Ausfall wäre! Was könnte jeweils davon betroffen sein? Was müsste passieren, um Folgen abzumildern?
+
+Stepwise Dijital bilet sistemi
+StepwiseDigital gelecekte bir bilet sistemi ile çalışacak - bu kadarı zaten kesin. Bu projenin bütçesi tüm departmanlar tarafından orantılı olarak hesaplanır. Bay Worman bu konuda sadece orta derecede hevesli – başka fikirleri vardı. Kişinin kendi BT'si ile ilgili olarak fayda için katma değer üretip üretemeyeceğini merak ediyor.
+Hizmet düzeyi tablosunu kullanın ve aşağıdaki olayların etkisini ve aciliyetini düzenleyin - ve böyle bir arızanın ne kadar olası olduğunu düşünün! Her birinden ne etkilenebilir? Sonuçları hafifletmek için ne olması gerekirdi?
+
+1.Ausfall einer Server Hardware im HA-Cluster
+2.Ausfall der Internetverbindung der Stepwise Digital
+3.Ausfall eines Mitarbeiter PC
+4.Ausfall Mobilfunknetz
+5.Hacking-attacke auf das System der Stepwise Digital
+
+1. HA kümesindeki bir sunucu donanımının arızası
+2. Stepwise Digital'in İnternet bağlantısının kesilmesi
+3. Bir çalışan PC'sinin arızalanması
+4. Mobil ağ hatası
+5. Stepwise Digital sistemine hack saldırısı
+-----------------------------------------------------------------------
+Problemmanagement
+Probleme von Morgen heute vermeiden
+•Daten aus dem Ticket/ Monitoring dienen als Basis um Ausfälle zuzuordnen und Ursachenforschung zu betreiben
+•Es werden Maßnahmen festgelegt, die dies vermeiden
+
+sorun yönetimi
+Yarının sorunlarından bugün kaçının
+• Bilet/izlemeden elde edilen veriler, arızaların tahsis edilmesi ve nedenlerin araştırılması için temel teşkil eder.
+•Bundan kaçınmak için önlemler tanımlanmıştır
+
+Changemanagement
+Wer ändert was warum?
+•Neue Systeme sollen beschafft werden
+•Neue Prozesse werden digitalisiert
+•Ausgefallenes System muss ersetzt werden
+
+değişim yönetimi
+Kim neyi neden değiştirir?
+•Yeni sistemler satın alınacaktır
+•Yeni süreçler dijitalleştirildi
+• Arızalı sistem değiştirilmelidir
+
+Requestmanagement
+Aufgaben, die keinen Störfall als Ursache haben
+•Neuer Benutzer 
+•Änderungen Benutzerrechte
+•Anpassen Software 
+
+istek yönetimi
+Bir olaydan kaynaklanmayan görevler
+•Yeni kullanıcı
+•Kullanıcı haklarındaki değişiklikler
+•Yazılımı özelleştirin
