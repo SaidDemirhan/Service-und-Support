@@ -1,0 +1,268 @@
+V03_Dokumentation_SUS_Tag03_Handout
+
+
+Dokumentation
+Grundbegriffe der IT-Sicherheit
+Dokumentation:
+-Ablauf
+-Nutzen
+-Inhalte
+-Schnittstellen und Ansprechpartner
+
+belgeler
+BT güvenliğinin temel kavramları
+Belgeler:
+-İşlem
+-Kullanim
+-İçerik
+-Arayüzler ve ilgili kişiler
+
+Datenschutz & IT-Sicherheit
+Integrität
+Man kann nicht heimlich ändern, was nicht gefällt
+
+Veri koruma ve BT güvenliği
+bütünlük
+Sevmediğin şeyi gizlice değiştiremezsin
+
+Vertraulichkeit:
+Es kann nur sehen, wer sehen soll
+
+Gizlilik:
+Sadece kimin görmesi gerektiğini görebilir
+
+Verfügbarkeit
+Es ist da, was ich brauche, wenn ich es brauche
+
+Kullanılabilirlik-ulasilabilirlik
+İhtiyacım olduğunda ihtiyacım olan şey orada
+
+Zurechenbarkeit:
+Handlungen sind eindeutig zuzuordnen
+(Änderungen lassen sich einem Benutzer zuordnen)
+
+Hesap verebilirlik:
+Eylemler açıkça atanır
+(Değişiklikler bir kullanıcıya atanabilir)
+
+Verbindlichkeit: Abstreiten ist nicht möglich
+(Jeder Mitarbeiter hat einen eigenen Benutzer)
+
+Sorumluluk: Reddetme mümkün değildir
+(Her çalışanın kendi kullanıcısı vardır)
+
+Warum dokumentieren?
+Kritische System identifizieren
+Einarbeitung erleichtern
+Prioritäten festlegen, Kernprozesse definieren
+ISO 27001
+
+Neden belge?
+Kritik sistemleri tanımlamak
+eğitimi kolaylaştırmak
+Öncelikleri belirlemek, temel süreçleri tanımlamak
+ISO 27001
+
+
+
+
+Ist mehr als das Festhalten des IST-Zustandes
+Wie ist denn das Passwort für die neue Serverhardware?!
+Welcher Benutzer musste Zugriff auf die neue Software erhalten?
+Wie war der neue Standort angebunden?
+
+Mevcut durumu kaydetmekten daha fazlasıdır
+Yeni sunucu donanımının şifresi nedir?!
+Hangi kullanıcıya yeni yazılıma erişim izni verilmesi gerekiyordu?
+Yeni konum nasıl bağlandı?
+
+ 
+Dokumentation als Prozess
+ 
+
+Nutzen einer Dokumentation
+Dokumentation
+-Schwachstellen-Analyse
+•Welche Systeme sind anfällig/ veraltet?
+•Welche Schnittstellen sind nicht redundant?
+•Welche Ausfälle hätten besondere Reichweite?
+
+belgelerin kullanımı
+belgeler
+- Güvenlik Açığı Analizi
+• Hangi sistemler savunmasız/modası geçmiş?
+• Hangi arayüzler yedekli değildir?
+• Hangi başarısızlıkların belirli bir erişimi olur?
+
+-Kritische Systeme
+•Welche Systeme sind unabdingbar?
+•Welche Server/ Software/ Dienste sind hochverfügbar?
+•Wie viele Personen können die jeweiligen Systeme administrieren?
+
+-Kritik sistemler
+• Hangi sistemler vazgeçilmezdir?
+• Hangi sunucular/yazılımlar/hizmetler yüksek oranda kullanılabilir?
+• İlgili sistemleri kaç kişi yönetebilir?
+
+-Prioritäten
+•Welche Systeme sollen in welcher Reihenfolge wiederhergestellt werden?
+•Wie ist der logische Aufbau einer Wiederherstellung (welcher Dienst/ Server hat Abhängigkeiten wovon?)
+
+-Öncelikler
+• Hangi sistemler hangi sırayla geri yüklenmelidir?
+• Kurtarmanın mantıksal yapısı nedir (hangi hizmet/sunucu neye bağımlıdır?)
+
+-Schnittstellen
+•Welche Software wird durch welche Benutzer (-gruppe) genutzt?
+•Wer ist hier Ansprechpartner?
+•Wer ist der IT-Ansprechpartner?
+•Wie wird kommuniziert?
+
+-Arayüzler
+• Hangi yazılım hangi kullanıcı (grup) tarafından kullanılıyor?
+• Burada muhatap kim?
+• BT irtibat kişisi kimdir?
+•Nasıl iletilir?
+
+Inhalte einer Dokumentation
+Mehr als Technikfragen
+•Die Dokumentation von Technik, Hardware, Schnittstellen, Netzwerk, Software, Lizenzen, Berechtigungen […] ist natürlich ein zentraler und wichtiger Teil. Aber:
+•Verträge mit externen Supporten/ Firmen/ Lieferanten
+•Prozessbeschreibungen, Konzepte
+•Ansprechpartner (z.B.: Internet-Provider), interne Ansprechpartner
+•Kritische Systeme definieren
+•Sicherungskonzepte
+•Räumlichkeiten (Standort, Gebäude, Raum)
+
+dokümantasyon içeriği
+Teknik sorulardan daha fazlası
+•Teknoloji, donanım, arayüzler, ağ, yazılım, lisanslar, yetkiler [...] dokümantasyonu elbette merkezi ve önemli bir kısımdır. Fakat:
+•Dış destekler/şirketler/tedarikçilerle yapılan sözleşmeler
+• Süreç tanımları, kavramlar
+• İrtibat kişisi (örneğin: İnternet sağlayıcısı), dahili irtibat kişisi
+• Kritik sistemleri tanımlayın
+• Yedekleme kavramları
+• Tesisler (konum, bina, oda)
+
+Aufgabe:
+Frau Jones ist an den Vorteilen interessiert, die eine gute Dokumentation mit sich bringen würde.
+Sie fragt Sie, wie sie die Systeme
+-Zeiterfassung
+-Buchhaltung
+-Dateiserver
+bei einem Ausfall priorisieren würden, und warum.
+
+Görev:
+Bayan Jones, iyi belgelerin getireceği faydalarla ilgileniyor.
+Sistemleri nasıl kullandıklarını soruyor.
+-Zaman takibi
+-Muhasebe
+-Dosya sunucusu
+bir kesinti durumunda öncelik ve neden olacaktır.
+
+1.Legen Sie eine Wiederherstellungsreihenfolge für die 3 Systeme fest.
+2.Welche Schnittstellen gibt es von Systemen zu Prozessen in der StepwiseDigital/ welche Tätigkeiten würden nicht zur Verfügung stehen ohne die Systeme?
+3.An welchem Punkt würden dadurch Kosten entstehen?
+
+1. 3 sistem için bir geri yükleme sırası belirleyin.
+2. StepwiseDigital'de sistemlerden süreçlere hangi arayüzler var/ sistemler olmadan hangi faaliyetler mümkün olmazdı?
+3. Bu hangi noktada maliyete neden olur?
+
+
+Warum Abläufe und Ansprechpartner dokumentieren?
+Ein praktisches Beispiel
+Bei den Stadtwerken Musterstadt fällt die Anbindung der Zentrale an das Internet aus. Der Administrator ist erkrankt und nicht erreichbar.
+•Wer muss informiert werden?
+•Bei welchen Anbieter haben wir den Anschluss?
+•Sind wir erreichbar?
+•Was müssen wir tun, wenn bis zum Ende der Geschäftszeiten des Tages die Störung nicht behoben werden konnte?
+
+Neden süreçleri ve ilgili kişileri belgelemelisiniz?
+Pratik bir örnek
+Stadtwerke Musterstadt'ta merkez ofis ile internet arasındaki bağlantı kopuyor. Yönetici hasta ve ulaşılamıyor.
+• Kimin bilgilendirilmesi gerekiyor?
+• Hangi sağlayıcı ile bağlantımız var?
+• Müsait miyiz?
+•Mesai saatlerinin sonuna kadar aksaklığın giderilmemesi durumunda ne yapmalıyız?
+
+Keine Dokumentation
+Was wäre, wenn es einfach keine Dokumentation gäbe?!
+•Technisch affine Mitarbeiter suchen den Router um nachzuvollziehen, bei welchem Provider man anrufen muss
+•Vielleicht finden sie ihn sogar –aber wie lautet denn die Rufnummer der Business-Hotline?! 
+•Man ruft in der „normalen“ Hotline an. Nach 1 Stunde Wartezeit wird man in die Businesshotline verbunden. Dort wird ein Kundenkennwort erfragt –nicht bekannt. 
+•Die Störung wird aus Kulanz aufgenommen –Rückmeldung erfolgen wie vertraglich vereinbar per Mail –an den Administrator.
+
+Belge yok
+Ya hiçbir belge olmasaydı?!
+•Teknik açıdan bilgili çalışanlar, hangi sağlayıcıyı arayacaklarını bulmak için yönlendiriciyi ararlar.
+•Belki onu bulurlar - ama iş yardım hattının telefon numarası nedir?!
+•“Normal” yardım hattını ararsınız. 1 saat bekledikten sonra iş hattına bağlanacaksınız. Orada bir müşteri şifresi isteniyor - bilinmiyor.
+•Arıza, iyi niyet göstergesi olarak kaydedilir - geri bildirim, sözleşmede kararlaştırıldığı şekilde e-posta ile verilir - yöneticiye.
+
+•Am Tagesende bleibt die Störung weiter bestehen. Die Mitarbeiter gehen frustriert nach Hause. Nachts versucht die Polizei, einen Mitarbeiter der Bereitschaft zu erreichen da es einen großen Rohrbruch gibt. Die Festnetznummer ist von der Störung betroffen. Die Stadtwerke werden für den Schaden mit haftbar gemacht.
+
+• Günün sonunda arıza devam ediyor. Çalışanlar sinirli bir şekilde eve giderler. Geceleri, büyük bir boru patlaması olduğu için polis nöbetçi bir çalışana ulaşmaya çalışır. Sabit hat numarası kesintiden etkilenir. Zarardan kamu kurumları sorumludur.
+
+Mit Dokumentation
+Wie könnte es besser laufen?
+•Ausfallszenarien sind in Handlungsanweisungen festgehalten. Diese liegen, wie andere Notfallmaßnahmen auch, für alle Mitarbeiter zugänglich aus.
+•Die Mitarbeiter wissen, es gibt im Falle des Internetausfalls einen internen Ansprechpartner, Herrn Meyer –oder auch einen externen Dienstleister. Die Mitarbeiter haben direkten Zugriff auf die Kontaktdaten und melden den Vorfall
+
+belgelerle
+İşler nasıl daha iyi gidebilir?
+•Arıza senaryoları talimatlara kaydedilir. Diğer acil durum önlemleri gibi, bunlar da tüm çalışanların kullanımına açıktır.
+•Çalışanlar, bir internet arızası durumunda dahili bir irtibat kişisi Bay Meyer veya harici bir hizmet sağlayıcı olduğunu bilirler. Çalışanların iletişim bilgilerine doğrudan erişimi vardır ve olayı rapor eder
+
+•Da auch Herr Meyer nicht im Hause ist, wird der externe Dienstleister mit der Behebung der Störung beauftragt.
+•Auch hier gibt es einen Notfallplan mit den Kontaktdaten des Providers –sowie der Kundennummer und dem Kennwort. Der Dienstleister erfährt, dass die Störung zentral ist, und nicht am gleichen Tag behoben wird.
+
+•Bay Meyer de yerinde olmadığı için, arızayı gidermek için harici hizmet sağlayıcı görevlendirilir.
+• Burada da sağlayıcının iletişim bilgilerinin yanı sıra müşteri numarası ve şifresini içeren bir acil durum planı bulunmaktadır. Servis sağlayıcı, arızanın merkezi olduğunu ve aynı gün giderilmeyeceğini öğrenir.
+
+•Anhand der definierten Dienste und Ansprechpartner kann er aber Auswirkungen sehen und die Rufnummer der Bereitschaft durch den Provider umleiten lassen-so muss niemand im Regen stehen.
+
+• Bununla birlikte, tanımlanan hizmetler ve ilgili kişiler temelinde, etkileri görebilir ve sağlayıcının bekleme hizmetinin çağrı numarasını yeniden yönlendirmesini sağlayabilir - böylece kimse yağmurda öne çıkmak zorunda kalmaz.
+
+Dokumentation der Softwareentwicklung
+Beispiel Spiralmodell
+Yazılım geliştirme belgeleri
+Örnek spiral model
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fazit
+
+
+
+
+
+Aufgabe:
+Sie haben Frau Jones mit Ihren Erläuterungen gut abholen können. Sie möchte, dass dies umgehend auch in der Stepwise Digital umgesetzt wird und künftig entsprechend dokumentiert wird. 
+Entwerfen Sie ein grobes Muster für die Dokumentation eines Serverraumes. Was muss zwingend enthalten sein? Was würden Sie vermutlich in jedem Serverraum vorfinden/ was ist optional? 
+
+
+Görev:
+Açıklamalarınızla Bayan Jones'u iyi yakalamışsınız. Bunun Stepwise Digital'de hemen uygulanmasını ve gelecekte buna göre belgelenmesini istiyor.
+Bir sunucu odasının dokümantasyonu için kaba bir şablon hazırlayın. Neler dahil edilmelidir? Muhtemelen her sunucu odasında ne bulursunuz/isteğe bağlı olan nedir?
+
