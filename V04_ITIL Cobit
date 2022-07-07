@@ -1,0 +1,620 @@
+V04_ITIL Cobit
+
+IT-Services
+ITIL
+COBIT
+ITIL
+Information Technology Infrastructure Library Bilgi Teknolojileri Altyapı Kütüphanesi
+
+
+Nutzen
+•Hilfestellung für Administratoren
+•Für Optimierung von IT und Service
+•Unterstützung Wertschöpfungskette 
+
+Kullanim
+• Yöneticiler için yardım
+• BT ve hizmet optimizasyonu için
+• Destek değer zinciri
+
+Fakt	Meaning
+ITIL ist kein Standard	    Es sind Best-Practices die so umgesetzt werden können, wie es für das jeweilige Unternehmen förderlich ist
+Es gibt kein Zertifikat für das Unternehmen	      Zertifizierungen nach ISO 20000 und BS15000 basierend auf ITIL
+Zertifikate als Kenntnisnachweise für Administratoren	
+
+hakikat	                                                            Anlam
+ITIL bir standart değil	                      İlgili şirket için faydalı olacak şekilde uygulanabilecek en iyi uygulamalardır.
+Şirketin sertifikası yok	                    ITIL'e dayalı ISO 20000 ve BS15000 sertifikaları
+Yöneticiler için bilgi kanıtı olarak sertifikalar	
+
+Entwicklung
+•V1 kam in Deutschland nicht an
+•V2: Best Practice zu
+•Service Delivery
+•Service& Support
+
+gelişim
+• V1 Almanya'ya ulaşmadı
+• V2: En İyi Uygulama
+	• Hizmet sunumu
+	• Servis desteği
+
+•V3 ersetz V2
+•Wesentlich mehr Themen
+•Einführung Service Lifecycle
+
+• V3, V2'nin yerine
+	• Çok daha fazla konu
+	• Hizmet Yaşam Döngüsünün Tanıtımı
+
+•V4 beseitigt Schwächen der V3
+•Service Lifecycle ist kein starres Modell mehr
+•Modular: Service Value System
+•Reaktiv oder proaktiv
+•Aneinanderreihung von Aktivitäten ergeben Wertschöpfungskette
+
+• V4, V3'ün zayıf yönlerini ortadan kaldırır
+• Hizmet yaşam döngüsü artık katı bir model değil
+• Modüler: Hizmet Değer Sistemi
+	• Reaktif veya proaktif
+	• Faaliyetlerin sıralanması bir değer zinciri ile sonuçlanır
+
+ 
+Fortbildung 
+Foundation
+•Grundlagen
+•ITIL zur Verbesserung IT-Servicemanagement
+
+Temel
+•Temel bilgiler
+• BT hizmet yönetimini iyileştirmek için ITIL
+
+Practitioner
+•Anwendung von IT Rahmenwerken
+
+Uygulayıcılar
+• BT çerçevelerinin uygulanması
+
+Intermediate
+•Service Lebenszyklus
+•Service Fähigkeit
+
+orta düzey
+• Hizmet Yaşam Döngüsü
+• Servis yeteneği
+
+Expert
+•Min 17 Credits auf Foundation/ Intermediate Level
+
+Uzman
+• Temel/Orta Düzeyde en az 17 kredi
+
+Master
+•Nachweis auf durchgeführte ITIL Projekte
+•5 Jahre Berufserfahrung als 
+
+usta
+• Tamamlanmış ITIL projelerinin kanıtı
+•5 yıllık mesleki deneyim
+
+•Einer Vielzahl von Best Practice Methoden aus den verschiedensten Bereichen
+•Nicht alle müssen genutzt werden
+•Analyse welche Prozesse genutzt werden können
+nicht mehr nur für den Support. Auch für Projektmanagement, für Sicherheit…
+
+• Çok çeşitli alanlardan çok sayıda en iyi uygulama yöntemi
+• Hepsinin kullanılması gerekmez
+• Hangi süreçlerin kullanılabileceğinin analizi
+artık sadece destek için değil. Ayrıca proje yönetimi için, güvenlik için...
+
+
+
+
+
+
+
+ITIL Inhalte
+Allgemein  
+Service Management Practices Hizmet Yönetimi Uygulamaları
+
+ 
+
+
+
+
+
+ITIL in der Praxis
+Ein Beispiel
+•IT-Sicherheit Ziel: Verfügbarkeit
+•Wissensmanagement reduziert Ausfallzeiten, schnelle Hilfe durch schnellen Zugriff auf Wissen
+•Durch Workforce& Talent Mgmt stehen trainierte, motivierte Fachkräfte zur Seite
+•Die Beziehung zum Kunden und deren Pflege stellt eine gute Kommunikation sicher –wir wissen was der Kunde braucht (und will)
+•Continual Improvement sorgt für Aktualität unseres Wissens
+
+uygulamada ITIL
+Bir örnek
+• BT güvenliği Hedef: kullanılabilirlik
+• Bilgi yönetimi, arıza süresini azaltır, bilgiye hızlı erişim yoluyla hızlı yardım
+• İşgücü ve Yetenek Yönetimi aracılığıyla eğitimli, motive profesyoneller hazır
+• Müşteri ile ilişki ve bunu sürdürmek iyi bir iletişim sağlar - müşterinin neye ihtiyacı olduğunu (ve istediğini) biliyoruz
+•Sürekli iyileştirme, bilgimizin güncel olmasını sağlar
+
+•Stillstand kostet
+•Monitoring kann Fehler prognostizieren und früh erkennen
+•IncidentMgmtlegt klare Strukturen fest 
+•Service und Request Mgmtsorgt für die Aufnahme und Abarbeitung von Störungsmeldungen
+•Service Level Mgmtsetzt dabei auf die richtige Einordnung von Vorfällen
+•Problem Mgmtsoll Wiederauftreten von Fehler vermeiden
+
+• Kesinti maliyetleri
+• İzleme, hataları tahmin edebilir ve erkenden tespit edebilir
+• IncidentMgmt net yapılar kurar
+• Servis ve Talep Yönetimi, arıza raporlarının kaydedilmesi ve işlenmesiyle ilgilenir
+• Hizmet Düzeyi Yönetimi, olayların doğru sınıflandırılmasına dayanır
+• Sorun Yönetimi, hatanın tekrarlanmasını önlemek için tasarlanmıştır
+
+Brainstorming
+Welche IT gestützten Prozesse in einem Unternehmen kennen Sie bereits?
+Bitte nutzen Sie die Merkzettelfunktion der Mediawalls und sammeln Sie Ihre Ideen! 
+
+beyin fırtınası
+Bir şirkette hangi BT destekli süreçleri zaten biliyorsunuz?
+Lütfen medya duvarlarının not defteri işlevini kullanın ve fikirlerinizi toplayın!
+
+ 
+
+Continual Improvement
+„Solange besser möglich ist, ist gut nicht genug“. (Dettmar Cramer)
+•Stetige Weiterentwicklung und Verbesserung als Basis
+•Grundsatz, der fest verankert und gelebt werden muss
+•ALLE müssen hieran mitwirken, JEDER ist wichtig
+
+oberste ebene:
+•Verantwortung übernehmen
+•Integration der Denkweise für alle Mitarbeiter
+
+Team für Continual Improvement
+•Thema offensiv und engagiert vertreten
+•Koordnieren und Mentoring
+
+alle in der Organisation
+•aktive Beteiligung
+
+Partner & Lieferanten
+•Regelung der Messwerte für Services 
+
+Devamlı gelişim
+"Daha iyi yapılabildiği sürece, iyi yeterince iyi değildir". (Dettmar Cramer)
+• Temel olarak sürekli geliştirme ve iyileştirme
+•Sağlamca sabitlenmesi ve yaşanması gereken ilke
+• HERKES buna katkıda bulunmalı, HERKES önemlidir
+
+en yüksek seviye:
+•Sorumluluk almak
+• Tüm çalışanlar için entegre zihniyet
+
+Sürekli İyileştirme Ekibi
+• Konu agresif bir şekilde ve kararlılıkla sunuldu
+• Koordinasyon ve mentorluk
+
+organizasyondaki herkes
+•aktif katılım
+
+Ortaklar ve Tedarikçiler
+• Hizmetler için sayaç kontrolü
+
+Umsetzung mittels Continual Improvement Models
+Sürekli İyileştirme Modellerini Kullanarak Uygulama
+
+Was ist unsere Vision?
+Vision, Mission, Ziele und Zielsetzung des Business
+Wo stehen wir jetzt?
+Baseline Assesments durchführen
+
+Vizyonumuz nedir?
+İşletmenin vizyon, misyon, amaç ve hedefleri
+Şu an neredeyiz?
+Temel değerlendirmeler yapın
+
+Wo wollen wir hin?
+messbare Ziele definieren
+
+Nereye gitmek istiyoruz?
+ölçülebilir hedefler tanımlayın
+
+Wie kommen wir dort hin?
+Verbesserungsplan definieren
+
+Oraya nasıl gideriz?
+İyileştirme planını tanımlayın
+
+Maßnahmen ergreifen
+Aktionen durchführen
+
+harekete geç
+eylemleri gerçekleştirmek
+
+Haben wir das Ziel erreicht?
+Messgrößen bewerten
+
+Hedefe ulaştık mı?
+Metrikleri değerlendirin
+
+
+Zeitumfang: 30 Min
+Entwicklung bedingt ein gewisses Maß an Kommunikation und Offenheit. Fehler sehen oftmals die am Besten, die sich täglich mit ihnen befassen müssen. Daher ist eine offene Feedbackkultur ein wichtiger Teil der Entwicklung und Verbesserung.
+Überlegen Sie, wo in dieser Feedbackkultur Gefahren „lauern“ können –wo kann es zu Problemen kommen, und wie begegnen sie diesen? Ist es realistisch, dass wirklich jeder Mitarbeiter offen seine Kritik äußert? Und ist diese zwingend objektiv?
+
+Süre: 30 dk
+Geliştirme, belirli bir miktarda iletişim ve açıklık gerektirir. Hatalar, genellikle günlük olarak onlarla uğraşmak zorunda olanlar tarafından en iyi şekilde görülür. Bu nedenle, açık bir geri bildirim kültürü, geliştirme ve iyileştirmenin önemli bir parçasıdır.
+Bu geri bildirim kültüründe tehlikelerin nerelerde "gizli" olabileceğini düşünün - sorunlar nerede ortaya çıkabilir ve bunlara nasıl karşı koyabilirsiniz? Gerçekten her çalışanın eleştirisini açıkça ifade etmesi gerçekçi mi? Ve bu mutlaka nesnel midir?
+
+COBIT
+Control Objectives for Information and Related Technology
+
+Bilgi ve ilgili Teknoloji Kontrol Hedefleri
+
+Was ist COBIT
+•Rahmenwerk für das Management und die Steuerung der Unternehmens IT
+•40 Ziele lassen sich in 5 Bereiche ordnen:
+•Evaluieren, Vorgeben und Überwachen (EDM Evaluate, Direct& Monitor)
+•Anpassen, Planen und Organisieren (APO Align, Plan & Organise)
+•Aufbauen, Beschaffen und Implementieren (BAI Build, Acquire& Implement)
+•Bereitstellen, Betreiben und Unterstützen (DSS Deliver, Service & Support)
+•Überwachen, Evaluieren und Beurteilen (MEA Monitor, Evaluate& Assess)
+
+COBIT nedir?
+• Kurumsal BT'nin yönetimi ve kontrolü için çerçeve
+•40 hedef 5 alana ayrılabilir:
+• Değerlendirin, belirtin ve izleyin (EDM Değerlendirmesi, Doğrudan ve İzleme)
+• Ayarlayın, planlayın ve düzenleyin (APO Hizala, Planlayın ve Düzenleyin)
+• İnşa Et, Tedarik Et ve Uygula (BAI İnşa Et, Al ve Uygula)
+• Sağlayın, çalıştırın ve destekleyin (DSS Teslim, Servis ve Destek)
+• İzleme, değerlendirme ve değerlendirme (MEA İzleme, Değerlendirme ve Değerlendirme)
+
+Monitor, Evaluate& Assess:
+Evaluate, Direct& Monitor
+Align, Plan, Organzie
+Build, Aquire& implement
+Deliver, Service & Support
+İzleyin, Değerlendirin ve Değerlendirin:
+Değerlendirin, Yönlendirin ve İzleyin
+Hizala, Planla, Organzie
+İnşa et, Edin ve uygula
+Teslimat, Servis ve Destek
+
+
+
+
+COBIT –Governance& Management Ziele COBIT – Yönetim ve Yönetim Hedefleri
+
+EDM01
+Einrichtung & Pflege des Governance Rahmenwerkes ist Sichergestellt
+
+EDM 02
+Bereitstellen von Mehrwert ist Sichergestellt
+
+EDM 03
+Risiko Optimierung ist Sichergestellt
+
+EDM 04
+Ressourcen Optimierung ist Sichergestellt
+
+EDM 05
+Einbindung der Anspruchsgruppen ist Sichergestellt
+
+
+	EDM01
+Yönetişim çerçevesinin oluşturulması ve sürdürülmesi sağlanır
+
+EDM 02
+Değer sağlamak garantilidir
+
+EDM 03
+Risk optimizasyonu sağlanır
+
+EDM 04
+Kaynak optimizasyonu garanti edilir
+
+EDM 05
+Paydaşların katılımı sağlanır
+
+
+APO 01
+IT Management Rahmenwerk ist genehmigt
+
+APO 02
+Strategie ist Genehmigt
+
+APO 03
+Unternehmensarchitektur ist gemanaged
+
+APO 04
+Innovation ist Gemanaged
+
+APO 05
+Portfolio ist Gemanaged
+
+APO 06
+Budget und Kosten sind gemanaged
+
+APO 07
+Personal ist Gemanaged
+
+APO 08
+Beziehungen sind Gemanaged
+
+APO 09
+Servicevereinbarungen sind gemanaged
+
+APO 10
+Lieferanten sind Gemanaged
+
+APO 11
+Qualität ist Gemanaged
+
+APO 12
+Risiko ist Gemanaged
+
+APO 13
+Sicherheit ist Genehmigt
+
+APO 14
+Daten sind Gemanaged
+
+
+	APO 01
+BT yönetim çerçevesi onaylandı
+
+APO 02
+Strateji Onaylandı
+
+APO 03
+Kurumsal mimari yönetilir
+
+APO 04
+İnovasyon yönetilir
+
+APO 05
+Portföy yönetiliyor
+
+APO 06
+Bütçe ve maliyetler yönetilir
+
+APO 07
+Personel yönetiliyor
+
+APO 08
+İlişkiler yönetilir
+
+APO 09
+Hizmet sözleşmeleri yönetilir
+
+APO 10
+Tedarikçiler yönetilir
+
+APO 11
+Kalite yönetilir
+
+APO 12
+Risk yönetilir
+
+APO 13
+Güvenlik Onaylandı
+
+APO 14
+Veriler yönetiliyor
+
+
+BAI 01
+Programme sind Gemanaged
+
+BAI 02
+Anforderungs definition ist gemanaged
+
+BAI 03
+Lösungsidentifizierung understellung sind gemanaged
+
+BAI 04
+Verfügbarkeit und Kapazität sind Gemanaged
+
+BAI 05
+Organisatorische Änderungen sind Gemanaged
+
+BAI 06
+IT Änderungen sind gemanaged
+
+BAI 07
+Umsetzung und Abnahme von IT Änderungen sind Gemanaged
+
+BAI 08
+Wissen ist Gemanaged
+
+BAI 09
+Betriebsmittel sind Gemanaged
+
+BAI 10
+Konfiguration ist Gemanaged
+
+BAI 11
+Projekte sind Gemanaged
+
+	BAI 01
+Programlar yönetilir
+
+02
+Gereksinim tanımı yönetilir
+
+03
+Çözüm tanımlama ve oluşturma yönetilir
+
+BAI 04
+Kullanılabilirlik ve kapasite yönetilir
+
+BAI 05
+Organizasyonel değişiklikler yönetilir
+
+BAE 06
+BT değişiklikleri yönetilir
+
+BAE 07
+BT değişikliklerinin uygulanması ve kabulü yönetilir
+
+08
+Bilgi yönetilir
+
+BAE 09
+Kaynaklar yönetilir
+
+BAE 10
+Yapılandırma yönetiliyor
+
+BAE 11
+Projeler yönetiliyor
+
+
+DSS 01
+Betrieb ist Gemanaged
+
+DSS 02
+Service Anfragen und Störungen sind Gemanaged
+
+DSS 03
+Probleme sind Gemanaged
+
+DSS 04
+Kontinuität ist Gemanaged
+
+DSS 05
+Sicherheitsservices sind gemanaged
+
+DSS 06
+Geschäftsprozess kontrollen sind gemanaged
+	DSS 02
+Servis istekleri ve hatalar yönetilir
+
+DSS 03
+Sorunlar yönetilir
+
+DSS 04
+Süreklilik yönetilir
+
+DSS 05
+Güvenlik hizmetleri yönetilir
+
+DDS 06
+İş süreci kontrolleri yönetilir
+
+
+MEA 01
+Überwachung von Leistung und Konformität wird Gemanaged
+
+MEA 02
+Internets Kontrollsystem wird Gemanaged
+
+MEA 03
+Compliance mit externen Anforderungen wird Gemanaged
+
+MEA 04
+Assurance wird Genehmigt
+	MEA 01
+Performans ve uyumluluğun izlenmesi yönetilir
+
+MEA 02
+İnternetin kontrol sistemi yönetilir
+
+MEA 03
+Dış gereksinimlere uyum yönetilir
+
+MEA 04
+Güvence Onaylandı
+
+
+
+ 
+Enabler
+•Jedem Ziel sind Enablerzugeordnet
+•Jeder dieser Faktoren trägt zum Funktionieren des Governance-Systems bei
+•Jedem Faktor ist eine Bewertung nach Fähigkeitsstufen zugeordnet, mit der die Implementierung bestimmt wird
+
+gerçekleştirici
+• Etkinleştiriciler her hedefe atanır
+• Bu faktörlerin her biri yönetişim sisteminin işleyişine katkıda bulunur
+• Her faktör, uygulamayı belirlemek için kullanılan bir yetenek düzeyi derecelendirmesi ile ilişkilidir.
+
+Governance Ziel:
+Processes
+Organisational Structures
+Principles, Policies, Procedures
+Information
+Culture, Ethics and Behavior
+People Skills and Competencies
+Services Infrastructure and Applications
+
+Yönetim hedefi:
+süreçler
+Örgütsel yapılar
+İlkeler, politikalar, prosedürler
+bilgi
+Kültür, Etik ve Davranış
+İnsanların Becerileri ve Yetkinlikleri
+Hizmetler Altyapısı ve Uygulamaları
+
+
+Fähigkeitsstufen 
+beceri seviyeleri
+
+0 Mangel an grundlegenden Fähigkeiten, und vollständiger Ansatz
+
+0 temel beceri eksikliği ve tam yaklaşım
+
+1 Prozess erfüllt mehr oder weniger die Anforderungen, noch nicht vollständig organisiert
+
+1 süreç az ya da çok gereksinimleri karşılıyor, henüz tam olarak organize edilmemiş
+
+
+2 Prozess erfüllt die grundlegenden Ansprüche und kann teilweise als performant gelten
+
+2 proses, temel gereksinimleri karşılar ve bazı durumlarda yüksek performanslı olarak kabul edilebilir
+
+3 Prozess erfüllt seinen Zweck in einem sehr organisierten Ablauf und ist gut definiert
+
+3 Süreç, amacına çok organize bir akış içinde hizmet eder ve iyi tanımlanmış
+
+4 Prozess erfüllt seinen Zweck, ist gut definiert und quantitativ messbar
+
+4 Süreç amaca uygun, iyi tanımlanmış ve nicel olarak ölçülebilir
+
+5 Prozess erfüllt seinen Zweck, ist gut definiert, seine Leistung ist messbar und eine kontinuierliche Prüfung ist sichergestellt
+
+5 Süreç amaca uygun, iyi tanımlanmış, performans ölçülebilir ve sürekli gözden geçirme garantilidir
+
+Auch hier: Fortlaufende Verbesserung
+•Unabhängig von Branche und Technologie
+•Fokus auf IT-Governance& Management
+•Governance-Komponenten sind kritische Erfolgsfaktoren
+•COBIT Ziele unterstützen effektives Management der Unternehmens IT
+
+Tekrar: sürekli iyileştirme
+• Sanayi ve teknolojiden bağımsız
+• BT Yönetişimi ve Yönetimine Odaklanma
+• Yönetim bileşenleri kritik başarı faktörleridir
+• COBIT hedefleri, kurumsal BT'nin etkin yönetimini destekler
+
+
+ITIL: schneller Support, angepasste PC Leistung 
+COBIT: Urheberrecht, Datenschutz
+Steigerung Bekanntheitsgrad
+
+ITIL: hızlı destek, özelleştirilmiş bilgisayar performansı
+COBIT: telif hakkı, gizlilik
+Farkındalık artışı
+
+
+
+•Nehmen Sie sich eines der 40 Governanceund Management Ziele und überlegen Sie, wie die Enableraussehen müssten, um das Ziel zu erreichen. 
+•Wie würden die Kriterien für eine Fähigkeitsstufe aussehen?
+
+• 40 yönetişim ve yönetim hedefinden birini alın ve hedefe ulaşmak için etkinleştiricilerin nasıl görünmesi gerektiğini düşünün.
+• Bir beceri düzeyi için kriterler neler olabilir?
+
